@@ -7,9 +7,9 @@
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science, Computer Programming, and Mathematics.
 - 💼 &nbsp; want to intern in software testing or software engineering.
-- 🌱 &nbsp; Enthusiast in game development and Artificial Intelligence .
-- ✍️ &nbsp; Watching Anime, playing video games and trying out latest design trends as hobbies/side hustles.
-- ☕ &nbsp; I believe, a perfect cup of coffee can be the ultimate solution for any stress. 
+- 🌱 &nbsp; Enthusiast in game development and Artificial Intelligence.
+- ✍️ &nbsp; Watching Anime, playing video games, and trying out the latest design trends as hobbies/side hustles.
+- ☕ &nbsp; a couple of hours of gameplay is the solution for stress. 
 
 <h3>🛠 Tech Stack</h3>
 
